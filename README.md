@@ -4,7 +4,7 @@ Este es un sistema de escritorio desarrollado en **Python** con interfaz gráfic
 
 ---
 ### Pantalla de Login
-![Login](imagenes/Login.png)
+![Login](PycharmProjects/MiSaludUmss-SISINFO1/imagenes/Login.png)
 ### Pantalla de Menu
 ![Menu](imagenes/Menu.png)
 ### Pantalla de Historial
