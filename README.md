@@ -6,11 +6,11 @@ Este es un sistema de escritorio desarrollado en **Python** con interfaz gráfic
 ### Pantalla de Login
 ![Login](PycharmProjects/MiSaludUmss-SISINFO1/imagenes/Login.png)
 ### Pantalla de Menu
-![Menu](imagenes/Menu.png)
+![Menu](PycharmProjects/MiSaludUmss-SISINFO1/imagenes/Menu.png)
 ### Pantalla de Historial
-![Historial](imagenes/Historial.png)
+![Historial](PycharmProjects/MiSaludUmss-SISINFO1/imagenes/Historial.png)
 ### Pantalla de Cancelar
-![Cancelar](imagenes/Cancelar.png)
+![Cancelar](PycharmProjects/MiSaludUmss-SISINFO1/imagenes/Cancelar.png)
 
 ## 📂 Estructura del proyecto
 
