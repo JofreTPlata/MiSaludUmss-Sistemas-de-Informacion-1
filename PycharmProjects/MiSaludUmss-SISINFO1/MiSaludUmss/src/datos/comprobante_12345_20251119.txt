@@ -1,0 +1,5 @@
+--- COMPROBANTE DE RESERVA ---
+Usuario: 12345
+Fecha: 2025-11-19
+Hora: 08:00
+Doctor: ELPEPE
